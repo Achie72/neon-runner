@@ -1,9 +1,11 @@
 # Neon Runner
+
 Neon Runner is an entry for the #NdabJam!
 It is a Neon style package delivery game, where you have to be quick and agile on your feet.
 
 Deliver pacakges picked up on pink points to cyan ones, all indicated by circles and arrow on the top of game!
 
+![alt text](https://img.itch.zone/aW1hZ2UvNjMyOTU3LzMzNzk4ODMuZ2lm/347x500/FxiDeX.gif)
 
 [**Play in browser**](https://achie72.github.io/clock_mage/)  
 [Itch page](https://achie.itch.io/neon-runner)    
@@ -12,13 +14,13 @@ Deliver pacakges picked up on pink points to cyan ones, all indicated by circles
 
 ---
 
-Controls:  
+**Controls:**  
 X - Hold to BOOOOOOOOOOOOST!  
 C - Press to Jump.
 
 ---
 
-Rules:  
+**Rules:**  
 
 - Pink things are all walkable.
 - You can jump on crows for a bounce effect, but any other collision with them will cause you precious time (recive a penalty)
@@ -37,20 +39,20 @@ Made in 17 hours.
 
 **Social media:**  
 
-Other social sites:
-🐦 [Twitter](https://twitter.com/Achie7240)
-📷 [Instagram](https://www.instagram.com/justanerdlife/)
-🎥 [Twitch](https://www.twitch.tv/achie7240)
-🎬 [YouTube](https://www.youtube.com/channel/UCzWXrvo-Pj7_KDv4w4q-4Kg)
+Other social sites:  
+🐦 [Twitter](https://twitter.com/Achie7240)  
+📷 [Instagram](https://www.instagram.com/justanerdlife/)  
+🎥 [Twitch](https://www.twitch.tv/achie7240)  
+🎬 [YouTube](https://www.youtube.com/channel/UCzWXrvo-Pj7_KDv4w4q-4Kg)  
 
 
 Games and devlogs i made: 
-⌨️ [GitHub repos](https://github.com/Achie72)
-🎮 [Itch.io](https://achie.itch.io/)
-🕹️ [Newgrounds](https://achie72.newgrounds.com/)
+⌨️ [GitHub repos](https://github.com/Achie72)  
+🎮 [Itch.io](https://achie.itch.io/)  
+🕹️ [Newgrounds](https://achie72.newgrounds.com/)  
 
-All my links in one place:
-🌳 [Linktr.ee](https://linktr.ee/AchieGameDev)
+All my links in one place:  
+🌳 [Linktr.ee](https://linktr.ee/AchieGameDev)  
 
 
 
