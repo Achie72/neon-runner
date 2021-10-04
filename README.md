@@ -7,7 +7,7 @@ Deliver pacakges picked up on pink points to cyan ones, all indicated by circles
 
 ![alt text](https://img.itch.zone/aW1hZ2UvNjMyOTU3LzMzNzk4ODMuZ2lm/347x500/FxiDeX.gif)
 
-[**Play in browser**](https://achie72.github.io/clock_mage/)  
+[**Play in browser**](https://achie72.github.io/neon-runner/)  
 [Itch page](https://achie.itch.io/neon-runner)    
 [Quarantine Jam page](https://itch.io/jam/ndab-jam/rate/632957)  
 [Ko-fi Article](https://ko-fi.com/post/NdabJam-projects-streams-and-future-plans-Z8Z11OHBN)  
