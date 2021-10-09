@@ -12,6 +12,8 @@ Deliver pacakges picked up on pink points to cyan ones, all indicated by circles
 [Quarantine Jam page](https://itch.io/jam/ndab-jam/rate/632957)  
 [Ko-fi Article](https://ko-fi.com/post/NdabJam-projects-streams-and-future-plans-Z8Z11OHBN)  
 
+You can download your version of choice from `exports`.
+
 ---
 
 **Controls:**  
